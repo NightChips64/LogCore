@@ -1,0 +1,2 @@
+# LogCore
+Advanced logging package
